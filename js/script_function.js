@@ -92,7 +92,7 @@
                 }
 
                 $(document).ready(function(){
-                    $('.sec_layer_1_banner').css('background-image', 'url(img/'+holder_current_val+'.jpg)');
+                    $('.sec_layer_1_banner').css('background-image', 'url(/img/'+holder_current_val+'.jpg)');
                 });
 
                 /* Dot Process */
